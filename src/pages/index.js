@@ -15,7 +15,7 @@ export default function Home() {
           Bem-vindo{' '}
         </h1>
         <div className="my-4">
-          <Link  href="http://localhost:3000/pharma">
+          <Link  href="https://coodesh-frontend-challenge-1.vercel.app/pharma">
   
 
             <a className="text-blue-600 mt-4">Recrutador, Clique para acessar o teste técnico !</a>
